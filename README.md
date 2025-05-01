@@ -4,5 +4,5 @@
 
 I’m skilled in programming languages like Python (my core language), Java, and C. My development experience includes working with popular Python libraries and tools such as NumPy, Pandas, Matplotlib. I use Jupyter Notebook, VS Code, and Git as part of my daily workflow, and I also have experience with MySQL for backend data management. I'm continuously expanding my knowledge by exploring frameworks and technologies like FastAPI, Django and flask to enhance my Python development capabilities.
 
-I'm passionate about clean code, continuous learning, and turning ideas into working applications. Feel free to connect with me on LinkedIn or reach out via email at vishalpatkal53@gmail.com — 
+I'm passionate about clean code, continuous learning, and turning ideas into working applications. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/vishal-patkal-952a6127b/ or reach out via email at vishalpatkal53@gmail.com — 
 
