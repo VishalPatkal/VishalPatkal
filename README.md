@@ -1,8 +1,7 @@
-:
+👋 Hello, I'm **Vishal Patkal** – welcome to my GitHub profile!
 
-👋 Hello, I'm Vishal Patkal – welcome to my GitHub profile! I'm a passionate Python Developer and technology enthusiast, currently pursuing a degree in Computer Science and Engineering with a specialization in Artificial Intelligence. I love building real-world applications and solving practical problems using the power of code. My primary focus is on development using Python, where I enjoy creating efficient, clean, and scalable solutions across various domains.
+I'm a Computer Science (AI) graduate passionate about **Data Science, Machine Learning, and Data Analytics**. I enjoy solving real-world problems using Python by analyzing data, building machine learning models, and creating meaningful visualizations.
 
-I’m skilled in programming languages like Python (my core language), Java, and C. My development experience includes working with popular Python libraries and tools such as NumPy, Pandas, Matplotlib. I use Jupyter Notebook, VS Code, and Git as part of my daily workflow, and I also have experience with MySQL for backend data management. I'm continuously expanding my knowledge by exploring frameworks and technologies like FastAPI, Django and flask to enhance my Python development capabilities.
+My core skills include **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**. I'm familiar with **Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, and basic Machine Learning**. I use **Jupyter Notebook, VS Code, Git, GitHub, PyCharm, and MySQL** as part of my development workflow.
 
-I'm passionate about clean code, continuous learning, and turning ideas into working applications. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/vishal-patkal-952a6127b/ or reach out via email at vishalpatkal53@gmail.com — 
-
+I'm continuously learning new technologies and improving my skills to build practical, data-driven solutions. Feel free to connect with me on **LinkedIn:**https://www.linkedin.com/in/vishal-patkal-952a6127b/ or reach out via **Email:** vishalpatkal53@gmail.com.
